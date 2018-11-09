@@ -20,9 +20,9 @@ CREATE TABLE Users(
 );
 
 
-INSERT INTO Users (USERNAME, PASSWORD) VALUES ('test', 'test');
 INSERT INTO Users (USERNAME, PASSWORD) VALUES ('hey', 'yo');
 INSERT INTO Users (USERNAME, PASSWORD) VALUES ('adafafa', 'dafafaf');
+
 CREATE TABLE Pet
 (
 pid CHAR(16),
